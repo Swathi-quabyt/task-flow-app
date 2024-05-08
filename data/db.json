@@ -1,0 +1,37 @@
+{
+  "board": {
+    "title": "My Project Board",
+    "lists": [
+      {
+        "id": "1",
+        "title": "To Do",
+        "tasks": [
+          {
+            "id": "1a",
+            "title": "Task 1",
+            "description": "First task description",
+            "dueDate": "2024-05-15"
+            
+            
+          },
+          {
+            "id": "1b",
+            "title": "Task 2",
+            "description": "Second task description",
+            "dueDate": "2024-05-25"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "In Progress",
+        "tasks": []
+      },
+      {
+        "id": "3",
+        "title": "Done",
+        "tasks": []
+      }
+    ]
+  }
+}

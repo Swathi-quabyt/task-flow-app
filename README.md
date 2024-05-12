@@ -21,3 +21,7 @@ A utility-first CSS framework that provides a set of pre-designed utility classe
 
 # JSON Server
 A full fake REST API tool, which allows you to quickly generate a REST API from a JSON file.
+
+# Mockups
+
+![Mockup](https://github.com/Swathi-quabyt/task-flow-app/assets/96561374/543e4de4-724c-4c31-9f76-bc103d5fd1fa)

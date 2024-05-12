@@ -25,3 +25,5 @@ A full fake REST API tool, which allows you to quickly generate a REST API from 
 # Mockups
 
 ![Mockup](https://github.com/Swathi-quabyt/task-flow-app/assets/96561374/543e4de4-724c-4c31-9f76-bc103d5fd1fa)
+
+![Mockups](https://github.com/Swathi-quabyt/task-flow-app/assets/96561374/031670f7-2096-4b9c-ac7c-4fa1f9831a07)

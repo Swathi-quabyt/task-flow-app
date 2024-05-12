@@ -7,10 +7,17 @@ TaskNest is a modern task management platform that empowers you to effortlessly 
 
 Key tools utilized in this React project:
 
-React: A JavaScript library for building user interfaces.
+# React
+A JavaScript library for building user interfaces.
 
-JavaScript: The core programming language used for developing the application logic.
+# JavaScript
+The core programming language used for developing the application logic.
 
-Material-UI: A popular React UI framework that provides pre-designed components following Google's Material Design guidelines, allowing for rapid development of sleek and consistent user interfaces.
+# Material-UI
+A popular React UI framework that provides pre-designed components following Google's Material Design guidelines, allowing for rapid development of sleek and consistent user interfaces.
 
-Tailwind CSS: A utility-first CSS framework that provides a set of pre-designed utility classes to rapidly build custom designs without writing custom CSS.
+# Tailwind CSS
+A utility-first CSS framework that provides a set of pre-designed utility classes to rapidly build custom designs without writing custom CSS.
+
+# JSON Server
+A full fake REST API tool, which allows you to quickly generate a REST API from a JSON file.

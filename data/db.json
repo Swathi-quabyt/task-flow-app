@@ -1,0 +1,99 @@
+{
+  "boards": [
+    {
+      "id": "124",
+      "title": "Daily Task",
+      "lists": [
+        {
+          "id": "Bb56-2LhHfyNAVpYh7pHK",
+          "title": "To-do",
+          "tasks": [
+            {
+              "id": "mQucoyR6lJ7gEHYkaEwc8",
+              "title": "Complete morning workout routine",
+              "description": "Do a 30-minute workout consisting of cardio and strength training exercises.",
+              "duedate": "2024-05-14",
+              "labels": [
+                "pending"
+              ],
+              "labeloftasks": [
+                "pending"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v_q9Ah6BLJvsMNJlXrwAC",
+          "title": "In progress",
+          "tasks": []
+        },
+        {
+          "id": "HATTzpmcxE0aDlG465Z6J",
+          "title": "Completed",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "id": "ucPVa8r85KwUcefSTvZvs",
+      "title": "Event planning",
+      "lists": [
+        {
+          "id": "OxHY1XEz_zQuB775UETMb",
+          "title": "To-do",
+          "tasks": []
+        },
+        {
+          "id": "rwyrO4mW97B1QkSl-qnzB",
+          "title": "In progress",
+          "tasks": [
+            {
+              "id": "mUJJdJ5u6KmTc15cyrpZY",
+              "title": "Birthday party",
+              "description": "A simple birthday decoration for first year birthday",
+              "duedate": "2024-05-31"
+            }
+          ]
+        },
+        {
+          "id": "MUJVMQ5EGEAgD7MiLYOIA",
+          "title": "Completed",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "id": "KnrtoSNn2yD9657iaKUKo",
+      "title": "Personal goals",
+      "lists": [
+        {
+          "id": "e_WOPEt4Psfo9MlOVRqdK",
+          "title": "To-do",
+          "tasks": []
+        },
+        {
+          "id": "tZoBjcnLw6fUU2QE6a655",
+          "title": "In progress",
+          "tasks": []
+        },
+        {
+          "id": "L5VHfe7Gi38IRLbHa4FXz",
+          "title": "Completed ",
+          "tasks": [
+            {
+              "id": "SN7VZaZ0XizKgn144J1Sl",
+              "title": " Weekly Self-Care Routine",
+              "description": "Performing meditation and yoga ",
+              "duedate": "2024-05-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7IWBVLxMT7_vE0MNvvS-A",
+      "title": "new board",
+      "lists": []
+    }
+  ]
+}
